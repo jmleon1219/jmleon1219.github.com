@@ -1,0 +1,10 @@
+<article class="unit-article layout-post">
+    <div class="unit-inner unit-article-inner">
+        <div class="content">
+            <div class="post">
+                    {{ post.content }}
+
+            </div><!-- bd -->
+        </div><!-- content -->
+    </div><!-- unit-inner -->
+</article>
