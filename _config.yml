@@ -1,12 +1,15 @@
 name: Jacob Leon
 markdown: redcarpet
-highlighter: rouge
+highlighter: pygments
 encoding: utf-8
-github: https://www.github.com/exaem
-about: Citizen of the world
+github: https://www.github.com/jmleon1219
+bitbucket: https://bitbucket.org/jacob_leon
+about: Technology enthusiast & Chicago based consulting veteran
 urls:
     - text: github
-      url: https://github.com/exaem
-    - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: https://github.com/jmleon1219
+    - text: bitbucket
+      url: https://bitbucket.org/jacob_leon
+    - text: linkedin
+      url: https://linkedin.com/in/JacobLeon
 baseurl: 
