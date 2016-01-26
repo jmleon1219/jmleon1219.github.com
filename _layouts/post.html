@@ -8,6 +8,7 @@ layout: default
 	<div class="post">{{ content }}</div>
 </div>
 
-
+{% if site.prod != 'n'%}
 <!--Tracking traffic via google-->
-{% include google_analytics %}
+	{% include google_analytics %}
+{% endif %}		
