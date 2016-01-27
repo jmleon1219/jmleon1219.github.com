@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.jacobleon.com/</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.jacobleon.com/database/qlikview/reverse-engineer/rtc/ibm/2016/01/22/reverse-engineer-rtc.html</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.jacobleon.com/database/qlikview/reverse-engineer/2016/01/22/reverse-engineer-db-pt2.html</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.jacobleon.com/database/qlikview/reverse-engineer/2016/01/20/reverse-engineer-db-pt1.html</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.jacobleon.com/python/aws/2016/01/10/python-aws.html</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.jacobleon.com/jekyll/github/2016/01/02/welcome-to-my-blog.html</loc>
+  <lastmod>2016-01-26T21:41:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
