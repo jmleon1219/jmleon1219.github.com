@@ -146,6 +146,8 @@ div.right .post ul {
  * Left column aka nav bar formatting
  * ///////////////////////////////////
  */
+ 
+
 div.col-sm-3 {
         margin-top: 100px;
         font-size: 11px;
@@ -158,9 +160,10 @@ div.col-sm-3 strong {
         font-weight: normal;
 }
 
-div.col-sm-3 div#about {
+div.col-sm-3 div#about{
         margin-top: 10px;
 		color: #8C8C8C;
+		margin-bottom: 10px;
 }
 
 div.col-sm-3 img#about {
